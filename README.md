@@ -9,4 +9,4 @@
 
 <h2> 🔨 &nbsp;My tools of choice</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,rust,kotlin,git,kubernetes,html,css,mysql,react,nextjs,docker,spring,bootstrap,junit,nodejs,linux&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,rust,kotlin,git,kubernetes,html,css,mysql,react,nextjs,docker,spring,bootstrap,nodejs,linux&perline=12)](https://skillicons.dev)

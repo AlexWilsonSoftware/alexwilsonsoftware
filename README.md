@@ -11,4 +11,4 @@
 
 ### 🔨 My tools of choice
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,rust,kotlin,git,kubernetes,html,css,mysql,react,nextjs,docker,spring,bootstrap,nodejs,linux&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,rust,kotlin,git,github,gitlab,kubernetes,html,css,bash,mysql,postgres,react,nextjs,docker,aws,spring,bootstrap,jenkins,nodejs,linux,idea,pycharm,figma,gradle,maven&perline=12)](https://skillicons.dev)

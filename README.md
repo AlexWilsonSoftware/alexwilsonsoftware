@@ -7,7 +7,7 @@
 * 📫 How to reach me: wilsonalex558@gmail.com
 * ❤️ I love web development
 
-# Take a look around my repositories, personal projects and various university assignments
+#### Take a look around my repositories, personal projects and various university assignments
 
 <h2> 🔨 &nbsp;My tools of choice</h2>
 

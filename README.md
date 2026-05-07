@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile 👋
 * 👂 My name is Alex Wilson
 * 👩 Pronouns: He/Him
 * 🔭 I’m currently working on web fuzzing
@@ -6,6 +6,8 @@
 * 💬 Ask me about baseball ⚾
 * 📫 How to reach me: wilsonalex558@gmail.com
 * ❤️ I love web development
+
+# Take a look around my repositories, personal projects and various university assignments
 
 <h2> 🔨 &nbsp;My tools of choice</h2>
 

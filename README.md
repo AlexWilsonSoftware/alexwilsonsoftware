@@ -9,6 +9,6 @@
 
 #### Take a look around my repositories, personal projects and various university assignments
 
-<h2> 🔨 &nbsp;My tools of choice</h2>
+### 🔨 My tools of choice
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,js,ts,rust,kotlin,git,kubernetes,html,css,mysql,react,nextjs,docker,spring,bootstrap,nodejs,linux&perline=12)](https://skillicons.dev)
